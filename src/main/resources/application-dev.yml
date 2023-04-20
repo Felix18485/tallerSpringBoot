@@ -1,0 +1,4 @@
+course:
+   message: Llamando desde el metodo
+   defaultmessage: No hay mensaje predefinido
+   perfil: Este es el perfil activo
